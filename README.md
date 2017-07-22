@@ -126,7 +126,7 @@ Congrats! You're all done.
 
 Week    | Pair One    | Pair Two | Pair Three   | Pair Four | Pair Five   | Pair Six     | Pair Seve     | Pair Eight | Pair Eight
 --------|-------------|----------|--------------|-----------|-------------|--------------|---------------|------------|------------
-Week 1  |Cole/Kelati|DavidB/Larry|Joel/Ashkaan|Miya/Thao|Alec/Raegan|Carson/JamesP|Kyle/Rowen|Nicholas/JamesZ|Ricky/Partner
+Week 1  |Cole/Kelati|DavidB/Larry|Joel/Ashkaan|Miya/Thao|Alec/Raegan|Carson/JamesP|Kyle/Rowen|Nicholas/JamesZ|Ricky/Aaron
 Week 2  |
 Week 3  | 
 Week 4  | 
