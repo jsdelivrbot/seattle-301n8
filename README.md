@@ -1,7 +1,3 @@
-[![](https://img.shields.io/badge/canvas-301n6-blue.svg)](https://canvas.instructure.com/courses/1092740/modules)
-[![](https://img.shields.io/badge/Labs-301n6-yellow.svg)](https://github.com/codefellows-seattle-301n6)
-[![](https://img.shields.io/badge/slack-301n6-orange.svg)](https://codefellows.slack.com/messages/seattle-301n6)
-
 # Code 301: Intermediate Software Development
 
 Welcome to Code 301! This is a class that builds on your fundamental knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the deep dive of any Code 401 class.
@@ -22,8 +18,7 @@ Week 4     | Week 7 and 8 | Your Project
 ## Slides from class
 
 Slides will be placed in each class' lecture-code subdirectory after they are presented.
-
-Slides will be in PDF format with presenter notes for re-viewing.
+Slides will be in PDF format for re-viewing.
 
 ## Assignments
 
@@ -129,11 +124,11 @@ Congrats! You're all done.
 
 # Weekly Pair Programming Partners
 
-Week    | Pair One    | Pair Two         | Pair Three    
---------|-------------|------------------|--------------
-Week 1  | Kaylee/Dana  | Meagan/Chris | Rosie/Maithrika
-Week 2  | Meagan/Kaylee | Maithrika/Chris |  Rosie/Dana
-Week 3  | Chris/Dana | Rosie/Kaylee | Meagan/Maithrika
-Week 4  | Maithrika/Dana | Kaylee/Chris | Meagan/Rosie
-Week 5  | Rosie/Chris | Maithrika/Kaylee | Dana/Meagan
-Week 6  | Dana/Rosie | Meagan/Kaylee | Maithrika/Chris
+Week    | Pair One    | Pair Two | Pair Three   | Pair Four | Pair Five   | Pair Six     | Pair Seve     | Pair Eight | Pair Eight
+--------|-------------|----------|--------------|-----------|-------------|--------------|---------------|------------|------------
+Week 1  |Cole/Kelati|DavidB/Larry|Joel/Ashkaan|Miya/Thao|Alec/Raegan|Carson/JamesP|Kyle/Rowen|Nicholas/JamesZ|Ricky/Partner
+Week 2  |
+Week 3  | 
+Week 4  | 
+Week 5  | 
+Week 6  |
