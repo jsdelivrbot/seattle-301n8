@@ -1,0 +1,22 @@
+{
+  "name": "class-07-npm-node-express",
+  "version": "1.0.0",
+  "description": "Demonstrate node npm and express :-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows/seattle-301n8.git"
+  },
+  "author": "tyler@codefellows.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codefellows/seattle-301n8/issues"
+  },
+  "homepage": "https://github.com/codefellows/seattle-301n8#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
