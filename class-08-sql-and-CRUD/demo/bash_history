@@ -1,0 +1,21 @@
+    1  createdb
+    2  createdb wizards
+    3  node
+    4  clear
+    5  psql
+    6  pgsql
+    7  psql
+    8  ls
+    9  cat logfile 
+   10  rm logfile 
+   11  clear
+   12  ls
+   13  cp ~/.bash_history .
+   14  cat .bash_history 
+   15  ls
+   16  mv .bash_history bash_history
+   17  la
+   18  ls
+   19  cat bash_history 
+   20  history
+   21  history > bash_history 
