@@ -129,6 +129,6 @@ Week    | Pair One    | Pair Two | Pair Three   | Pair Four | Pair Five   | Pair
 Week 1  |Cole/Kelati|DavidB/Larry|Thao/Ashkaan|Miya/Joel|Alec/Raegan|Carson/JamesP|Kyle/Rowen|Nicholas/JamesZ|Ricky/Aaron
 Week 2  |DavidB/Thao|Cole/Carson|Kelati/Ashkaan/Nicholas|Larry/Joel|Alec/JamesZ|JamesP/Kyle|Rowen/Aaron|Dalton/Ricky|Raegan/Miya
 Week 3  |Cole/Kyle|DavidB/Kelati|Raegan/Dalton|Ashkaan/Larry|Aaron/Joel/Nicholas|Alec/JamesP|Rowen/Carson|Thao/Miya|JamesZ/Ricky
-Week 4  | 
+Week 4  |Larry/Kelati|DavidB/Cole|Thao/Alec|Miya/Ashkaan|Joel/Raegan|JamesZ/JamesP|Kyle/Ricky|Nicholas/Carson|Rowen/Aaron
 Week 5  | 
 Week 6  |
