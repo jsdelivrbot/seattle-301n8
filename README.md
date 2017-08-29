@@ -131,4 +131,4 @@ Week 2  |DavidB/Thao|Cole/Carson|Kelati/Ashkaan/Nicholas|Larry/Joel|Alec/JamesZ|
 Week 3  |Cole/Kyle|DavidB/Kelati|Raegan/Dalton|Ashkaan/Larry|Aaron/Joel/Nicholas|Alec/JamesP|Rowen/Carson|Thao/Miya|JamesZ/Ricky
 Week 4  |Larry/Kelati|DavidB/Cole|Thao/Alec|Miya/Ashkaan|Joel/Raegan|JamesZ/JamesP/Dalton|Kyle/Ricky|Nicholas/Carson|Rowen/Aaron
 Week 5  |JamesZ/Miya|Aaron/Cole|JamesP/Alec|Kelati/Ashkaan|Joel/Dalton|Thao/Raegan/|Kyle/Ricky|Larry/Carson|Rowen/DavidB
-Week 6  |Cole/Kelati|DavidB/Larry|Thao/Ashkaan|Miya/Joel|Alec/Raegan|Carson/JamesP/Kyle|Dalton/Rowen|Aaron/JamesZ
+Week 6  |Cole/Rowen|DavidB/Larry|Thao/Ashkaan|Miya/Joel|Alec/Raegan|Carson/JamesP/Kyle|Dalton/Kelati|Aaron/JamesZ
