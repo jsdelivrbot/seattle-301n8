@@ -24,8 +24,7 @@ Week 4     | Week 7 and 8 | Your Project
 ## Slides from class
 
 Slides will be placed in each class' lecture-code subdirectory after they are presented.
-
-Slides will be in PDF format with presenter notes for re-viewing.
+Slides will be in PDF format for re-viewing.
 
 ## Assignments
 
@@ -131,11 +130,12 @@ Congrats! You're all done.
 
 # Weekly Pair Programming Partners
 
-Week    | Pair One    | Pair Two         | Pair Three    
---------|-------------|------------------|--------------
-Week 1  | Kaylee/Dana  | Meagan/Chris | Rosie/Maithrika
-Week 2  | Meagan/Kaylee | Maithrika/Chris |  Rosie/Dana
-Week 3  | Chris/Dana | Rosie/Kaylee | Meagan/Maithrika
-Week 4  | Maithrika/Dana | Kaylee/Chris | Meagan/Rosie
-Week 5  | Rosie/Chris | Maithrika/Kaylee | Dana/Meagan
-Week 6  | Dana/Rosie | Meagan/Kaylee | Maithrika/Chris
+Week    | Pair One    | Pair Two | Pair Three   | Pair Four | Pair Five   | Pair Six     | Pair Seven    | Pair Eight | Pair Nine
+--------|-------------|----------|--------------|-----------|-------------|--------------|---------------|------------|------------
+Week 1  |Cole/Kelati|DavidB/Larry|Thao/Ashkaan|Miya/Joel|Alec/Raegan|Carson/JamesP|Kyle/Rowen|Nicholas/JamesZ|Ricky/Aaron
+Week 2  |DavidB/Thao|Cole/Carson|Kelati/Ashkaan/Nicholas|Larry/Joel|Alec/JamesZ|JamesP/Kyle|Rowen/Aaron|Dalton/Ricky|Raegan/Miya
+Week 3  |Cole/Kyle|DavidB/Kelati|Raegan/Dalton|Ashkaan/Larry|Aaron/Joel/Nicholas|Alec/JamesP|Rowen/Carson|Thao/Miya|JamesZ/Ricky
+Week 4  |Larry/Kelati|DavidB/Cole|Thao/Alec|Miya/Ashkaan|Joel/Raegan|JamesZ/JamesP/Dalton|Kyle/Ricky|Nicholas/Carson|Rowen/Aaron
+Week 5  |JamesZ/Miya|Aaron/Cole|JamesP/Alec|Kelati/Ashkaan|Joel/Dalton|Thao/Raegan/|Kyle/Ricky|Larry/Carson|Rowen/DavidB
+Week 6  |Cole/Rowen|DavidB/Larry|Thao/Ashkaan|Alec/Raegan|Carson/JamesP/Kyle|Dalton/Kelati|Aaron/JamesZ/Joel
+

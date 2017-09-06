@@ -1,14 +1,3 @@
-# Assignment for Class 7 - Functional Programming
-
-## Daily Plan
-1. Code Review
-2. Functional Programming Overview
-3. Scope / Modular IIFE Structure
-
-Step into the declarative paradigm.
-
-Pair up to work on the MVC blog, then take what you learn to your portfolio site.
-
 # Functional Programming
 
 ## keywords

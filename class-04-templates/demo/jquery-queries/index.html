@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+</head>
+<body>
+  <h1 class="awesome">Outside the Sections</h1>
+	<section id="first" class="awesome">
+    <h1>First</h1>
+		<p>Here is the first section</p>
+	</section>
+	<section id="second" class="awesome">
+    <h1>Second</h1>
+		<p>This is the second section</p>
+    <span>Here is some stuff</span>
+    <p>Here is a second p tag in the <span>second section</span></p>
+    <div>
+      <p>here is a p tag in a div</p>
+    </div>
+	</section>
+	<section id="third" class="awesome amazing">
+    <h1>Third</h1>
+		<p>This is our last section</p>
+	</section>
+  <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+  <script>
+    $('section.awesome').css('background-color', 'blue');
+    $('.awesome h1').css('background-color', 'red');
+    $('#second p').css('background-color', 'green');
+    $('h1.awesome').css('background-color', 'orange');
+    $('#second p span').css('background-color', 'yellow');
+    $('#first p,#third p').css('background-color', 'gray');
+    $('.awesome.amazing').css('background-color', '#aaccaa');
+  </script>
+</body>
+</html>
